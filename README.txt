@@ -13,7 +13,7 @@ Facebook: http://facebook.com/fh5co
 CREDITS:
 
 Bootstrap
-http://getbootstrap.com/
+http://getbootstrap.com
 
 jQuery
 http://jquery.com/
