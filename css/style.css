@@ -499,7 +499,8 @@ h1, h2, h3, h4, h5, h6, figure {
 #gtco-about,
 #gtco-practice-areas,
 #gtco-our-team,
-#gtco-contact {
+#gtco-contact ,
+#gtco-kohderyhma{
   padding: 7em 0;
   clear: both;
 }
