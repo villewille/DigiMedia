@@ -19,6 +19,11 @@ body {
   background: #fff;
 }
 
+#gtco-logo img{
+  width: auto;
+    height: 5vh;
+}
+
 #page {
   position: relative;
   overflow-x: hidden;
@@ -501,7 +506,7 @@ h1, h2, h3, h4, h5, h6, figure {
 
 #gtco-about .img-shadow {
   position: relative;
-  background: #7ED321;
+  background: #53AF32;
   width: 100%;
   float: left;
 }
@@ -664,11 +669,11 @@ h1, h2, h3, h4, h5, h6, figure {
   position: absolute;
   width: 72px;
   height: 2px;
-  background: #7ED321;
+  background: #53AF32;
 }
 
 .heading-colored {
-  color: #7ED321;
+  color: #53AF32;
 }
 
 .read-more i {
