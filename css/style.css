@@ -507,8 +507,8 @@ h1, h2, h3, h4, h5, h6, figure {
 #gtco-about .img-shadow {
   position: relative;
   background: #53AF32;
-  width: 100%;
-  float: left;
+  /* width: 100%; */
+  float: left; 
 }
 #gtco-about .img-shadow img {
   position: relative;
@@ -594,8 +594,8 @@ h1, h2, h3, h4, h5, h6, figure {
 #gtco-our-team .gtco-team .img-shadow {
   position: relative;
   background: #7ED321;
-  width: 100%;
-  float: left;
+  /* width: 100%; */
+  float: right;
   margin-bottom: 30px;
 }
 #gtco-our-team .gtco-team-reverse .img-shadow img,
