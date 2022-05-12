@@ -1,0 +1,13 @@
+
+h1 {
+    color: #53AF32;
+}
+.gtco-nav {
+    background-color: white;
+}
+.gtco-nav ul li a {
+    color: #7ed321;
+}
+.gtco-nav ul li.active > a {
+    color: #7ed321;
+}
