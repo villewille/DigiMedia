@@ -11,3 +11,9 @@ h1 {
 .gtco-nav ul li.active > a {
     color: #7ed321;
 }
+h1, h2, h3, h4, h5, h6, figure {
+font-family: 'Roboto Flex', sans-serif;
+}
+.gtco-nav.scrolled ul li a {
+    color: rgba(0, 0, 0, 0.7);
+}
