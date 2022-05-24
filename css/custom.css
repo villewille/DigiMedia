@@ -17,3 +17,11 @@ font-family: 'Roboto Flex', sans-serif;
 .gtco-nav.scrolled ul li a {
     color: rgba(0, 0, 0, 0.7);
 }
+body {
+    font-family: "Roboto Flex", sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1.8;
+    color: #777;
+    background: #fff;
+}
