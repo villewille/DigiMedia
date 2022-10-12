@@ -28,3 +28,13 @@ body {
     color: #777;
     background: #fff;
 }
+#gtco-practice-areas .heading .subtle-text {
+    position: absolute;
+    bottom: -0.2em;
+    left: 0;
+    text-transform: uppercase;
+    font-size: 208px;
+    color: #F8F8F8;
+    font-weight: 900;
+    z-index: -1;
+}
