@@ -5,7 +5,7 @@
   .gtco-testimonials h2 {
     font-size: 30px;
     text-align: center;
-    color: #333333;
+    color: #53AF32;
     margin-bottom: 50px;
   }
   .gtco-testimonials .owl-stage-outer {
@@ -24,14 +24,14 @@
     border-radius: 50%;
     display: block;
     background: #fff;
-    border: 2px solid #01b0f8;
+    border: 2px solid #53AF32;
     margin: 0 5px;
   }
   .gtco-testimonials .owl-dots .active {
     box-shadow: none;
   }
   .gtco-testimonials .owl-dots .active span {
-    background: #01b0f8;
+    background: #53AF32;
     box-shadow: none;
     height: 12px;
     width: 12px;
@@ -54,7 +54,7 @@
     height: 100px;
   }
   .gtco-testimonials .card h5 {
-    color: #01b0f8;
+    color: #53AF32;
     font-size: 21px;
     line-height: 1.3;
   }
