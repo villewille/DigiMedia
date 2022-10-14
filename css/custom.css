@@ -28,7 +28,7 @@ body {
     color: #777;
     background: #fff;
 }
-#gtco-practice-areas .gtco-testimonials .heading .subtle-text {
+/* #gtco-practice-areas .heading .subtle-text {
     position: absolute;
     bottom: 0em;
     left: 0;
@@ -37,8 +37,8 @@ body {
     color: #F8F8F8;
     font-weight: 900;
     z-index: -1;
-}
-#gtco-testimonials .heading .subtle-text {
+} */
+#script .heading .subtle-text {
     position: absolute;
     bottom: 0em;
     left: 0;
