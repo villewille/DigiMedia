@@ -48,13 +48,13 @@ body {
 }
 
 a {
-  color: #7ED321;
+  color: #53AF32;
   -webkit-transition: 0.5s;
   -o-transition: 0.5s;
   transition: 0.5s;
 }
 a:hover, a:active, a:focus {
-  color: #7ED321;
+  color: #53AF32;
   outline: none;
   text-decoration: none;
 }
@@ -264,14 +264,14 @@ h1, h2, h3, h4, h5, h6, figure {
   color: black;
 }
 .gtco-nav.scrolled ul li.active > a {
-  color: #7ED321 !important;
+  color: #53AF32 !important;
 }
 .gtco-nav.scrolled ul li.btn-cta a {
   color: #fff;
 }
 .gtco-nav.scrolled ul li.btn-cta a span {
   border: none !important;
-  background: #7ED321;
+  background: #53AF32;
   padding: 4px 20px;
   color: #fff;
 }
@@ -413,7 +413,7 @@ h1, h2, h3, h4, h5, h6, figure {
   opacity: 1;
 }
 .gtco-cover a {
-  color: #7ED321;
+  color: #53AF32;
 }
 .gtco-cover a:hover {
   color: rgb(255, 255, 255);
@@ -705,7 +705,7 @@ h1, h2, h3, h4, h5, h6, figure {
 .gtco-social-icons li a {
   display: -moz-inline-stack;
   display: inline-block;
-  zoom: 1;
+  zoom: 1.5;
   *display: inline;
   color: #7ED321;
   padding-left: 10px;
@@ -733,7 +733,7 @@ h1, h2, h3, h4, h5, h6, figure {
   position: relative;
 }
 .gtco-contact-info ul li:before {
-  color: #7ed321;
+  color: #53AF32;
   position: absolute;
   left: 0;
   top: .05em;
@@ -1123,9 +1123,9 @@ form label {
 }
 
 .btn-primary {
-  background: #7ED321;
+  background: #53AF32;
   color: #fff;
-  border: 2px solid #7ED321 !important;
+  border: 2px solid #53AF32 !important;
 }
 .btn-primary:hover, .btn-primary:focus, .btn-primary:active {
   background: #8bde2f !important;
@@ -1133,11 +1133,11 @@ form label {
 }
 .btn-primary.btn-outline {
   background: transparent;
-  color: #7ED321;
-  border: 2px solid #7ED321;
+  color: #53AF32;
+  border: 2px solid #53AF32;
 }
 .btn-primary.btn-outline:hover, .btn-primary.btn-outline:focus, .btn-primary.btn-outline:active {
-  background: #7ED321;
+  background: #53AF32;
   color: #fff;
 }
 
