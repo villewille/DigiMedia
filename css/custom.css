@@ -40,10 +40,10 @@ body {
 } */
 #script .heading .subtle-text {
     position: absolute;
-    bottom: 0em;
+    bottom: -0.5em;
     left: 0;
     text-transform: uppercase;
-    font-size: 208px;
+    font-size: 10em;
     color: #F8F8F8;
     font-weight: 900;
     z-index: -1;
@@ -62,3 +62,4 @@ body {
     height: 2px;
     background: #53AF32;
 }
+
