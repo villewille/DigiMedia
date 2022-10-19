@@ -49,8 +49,14 @@ body {
     z-index: -1;
 }
 #gtco-about, #gtco-practice-areas, #gtco-our-team, #gtco-contact, #gtco-kohderyhma {
-    padding: 7em 7px;
+    padding: 0em 7px 7em 0px;
     clear: both;
+}
+#gtco-kohderyhma{
+    padding-bottom: 0;
+}
+#gtco-about{
+    padding-top: 70px;
 }
 .heading .sub:after {
     bottom: 0;

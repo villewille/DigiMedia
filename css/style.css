@@ -1282,7 +1282,7 @@ form label {
 }
 
 .row-pb-md {
-  padding-bottom: 4em !important;
+  padding-bottom: 0em !important;
 }
 
 .row-pb-sm {
