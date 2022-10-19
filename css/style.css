@@ -261,7 +261,7 @@ h1, h2, h3, h4, h5, h6, figure {
   color: rgba(0, 0, 0, 0.5);
 }
 .gtco-nav.scrolled ul li a:hover {
-  color: black;
+  color: #53AF32;
 }
 .gtco-nav.scrolled ul li.active > a {
   color: #53AF32 !important;
@@ -707,7 +707,7 @@ h1, h2, h3, h4, h5, h6, figure {
   display: inline-block;
   zoom: 1.5;
   *display: inline;
-  color: #7ED321;
+  color: #53AF32;
   padding-left: 10px;
   padding-right: 10px;
 }
