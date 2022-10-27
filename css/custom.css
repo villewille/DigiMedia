@@ -9,6 +9,14 @@ h4{
     color: #53AF32;
     margin: 0;
 }
+h5{
+    color: #000000;
+    margin-bottom: 10px;
+}
+h6{
+    color: #000000;
+    margin-bottom: 20px;
+}
 .gtco-nav {
     background-color: white;
 }
