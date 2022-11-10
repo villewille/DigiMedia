@@ -86,4 +86,13 @@ body {
 #footer-text{
     margin-top: 60px;
 }
+#linkki{
+    font-size: large;
+    color: #326a1e;
+}
+#kortti{
+    padding-bottom: 15px;
+    margin-bottom: 0px;
+}
+
 
